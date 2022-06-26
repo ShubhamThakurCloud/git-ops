@@ -29,3 +29,50 @@ git clone git@github.com:ansh11223344/git-ops.git
   206  git log
   207  git log --oneline
 
+ 162  git status 
+
+  163  git diff
+
+  164  git add . 
+
+  165  git commit -am"adding dev branch"
+
+  166  git push 
+
+  167  git push --set-upstream origin dev
+
+  168  git switch -c uat 
+
+  169  git branch 
+
+  170  vim index.html 
+
+  171  git add . 
+
+  172  git commit -am"adding UAT branch "
+
+  173  git push 
+
+  174  ll
+
+  175  git branch 
+
+  176  git switch dev
+
+  177  git checkout main
+
+  178  git branch 
+
+  179  git merge uat 
+
+  180  git status
+
+  181  cat index.html 
+
+  182  git add . 
+
+  183  git commit -am"merging branch "
+
+  184  git push 
+
+  185  history 

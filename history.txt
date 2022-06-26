@@ -1,3 +1,18 @@
+.for ssh key you need to type command --
+ssh-keygen
+
+.then press enter 3 times it will create a file for you--
+cd ~/.ssh
+ll 
+cat id_rsa.pub
+* then copy the entire code 
+*go to the repo
+* settings
+*deploy keys
+*title
+* paste key in key 
+*add key 
+
 git clone git@github.com:ansh11223344/git-ops.git
   194  ll
   195  cd git-ops

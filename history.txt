@@ -1,0 +1,16 @@
+git clone git@github.com:ansh11223344/git-ops.git
+  194  ll
+  195  cd git-ops
+  196  ll
+  197  vim index.html
+  198  git status
+  199  git diff
+  200  git add .
+  201  git add index.html
+  202  git status
+  203  git commit -am"new version v1"
+  204  git push
+  205  git logs
+  206  git log
+  207  git log --oneline
+
